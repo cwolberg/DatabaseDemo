@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="product">Product</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="show_all">show all</string>
+</resources>
